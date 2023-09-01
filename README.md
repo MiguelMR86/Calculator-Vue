@@ -4,7 +4,7 @@ Esta es una calculadora web avanzada desarrollada con Vue 3, TypeScript y Vite. 
 
 ## Capturas de pantalla
 
-![Captura de pantalla 1](https://github.com/MiguelMR86/Calculator-Vue/assets/90867675/d5e7a6f9-2558-41aa-9afd-89d7549cef30)
+![Captura de pantalla 1](https://github.com/MiguelMR86/Calculator-Vue/assets/90867675/4fe77e86-7f55-4d9c-a130-36fa0699f61e)
 
 ## Características
 
