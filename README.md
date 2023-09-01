@@ -1,18 +1,36 @@
-# Vue 3 + TypeScript + Vite
+# Calculadora con Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Esta es una calculadora web avanzada desarrollada con Vue 3, TypeScript y Vite. Permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división, así como operaciones avanzadas como raíces cuadradas, potencias, etc.
 
-## Recommended IDE Setup
+## Capturas de pantalla
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![Captura de pantalla 1](https://github.com/MiguelMR86/Calculator-Vue/assets/90867675/d5e7a6f9-2558-41aa-9afd-89d7549cef30)
 
-## Type Support For `.vue` Imports in TS
+## Características
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+- Realiza operaciones matemáticas básicas.
+- Interfaz de usuario intuitiva y fácil de usar.
+- Escrito en TypeScript para una mejor mantenibilidad y depuración.
+- Desarrollado con Vite para una rápida configuración y desarrollo.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+## Instalación
+Clona el repositorio de Calculator-Vue desde GitHub
+Navega al directorio del proyecto
+Instala las dependencias
+Inicia la aplicación
 
-1. Disable the built-in TypeScript Extension
-   1. Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-   2. Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+```shell
+$ git clone https://github.com/MiguelMR86/Calculator-Vue
+$ cd Calculator-Vue
+$ code . # En caso de que lo tengas configurado
+$ npm install
+```
+## Uso
+Inicia la aplicación
+
+```shell
+$ npm run dev
+```
+
+## 📱 Contacto
+Si tienes alguna pregunta, problema o sugerencia, por favor abre un issue en el repositorio.
