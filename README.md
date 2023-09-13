@@ -20,16 +20,16 @@ Instala las dependencias
 Inicia la aplicación
 
 ```shell
-$ git clone https://github.com/MiguelMR86/Calculator-Vue
-$ cd Calculator-Vue
-$ code . # En caso de que lo tengas configurado
-$ npm install
+git clone https://github.com/MiguelMR86/Calculator-Vue
+cd Calculator-Vue
+code . # En caso de que lo tengas configurado
+npm install
 ```
 ## Uso
 Inicia la aplicación
 
 ```shell
-$ npm run dev
+npm run dev
 ```
 
 ## 📱 Contacto
